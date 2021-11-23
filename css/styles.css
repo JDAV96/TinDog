@@ -12,7 +12,7 @@ h1
   color: white;
 }
 
-.container-fluid
+.title-container
 {
   padding:3% 15%;
   background-color: #ff4c69;
@@ -54,4 +54,73 @@ h1
 {
   width: 60%;
   transform: rotate(20deg);
+}
+
+/* features section */
+
+.features-div
+{
+  text-align: center;
+  padding: 10%;
+}
+
+.feature-title
+{
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.feature-content
+{
+  color: #8f8f8f;
+}
+
+.feature-image
+{
+  color: #ef8172;
+  margin-bottom: 3%;
+}
+
+.feature-image:hover
+{
+  color: #ff4c68;
+}
+
+/* testimonials section */
+
+.testimonial-div
+{
+  padding: 10%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+.testimonial-quote
+{
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* press section */
+
+.press-div
+{
+  padding-bottom: 2%;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.press-logo
+{
+  width: 15%;
+  margin: 20px;
 }
