@@ -170,3 +170,40 @@ body
   font-weight: 700;
   font-size: 1.5rem;
 }
+
+/* cta section */
+.cta-text
+{
+  color: white;
+  font-weight: 700;
+  font-size: 3rem;
+  margin-bottom: 5%;
+  padding-bottom: 3%;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.cta-div
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5%;
+}
+
+.cta-btn
+{
+  margin-left: 20px;
+}
+
+/* footer */
+
+.footer-div
+{
+  text-align: center;
+  padding: 3%;
+}
+
+.footer-logo
+{
+  margin-left: 20px;
+}
